@@ -16,9 +16,9 @@ As a BTS SIO student specializing in SISR, I am passionate about system and netw
 
 ### Connect with me!
 <div>
-    <a href="[www.linkedin.com/in/ruben-chiche-ab5a09355](https://www.linkedin.com/in/ruben-chiche-ab5a09355)">
-        <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
-    </a>
+    <a href="https://www.linkedin.com/in/ruben-chiche-ab5a09355/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
+</a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer" alt="footer"/>
