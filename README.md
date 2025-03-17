@@ -9,7 +9,7 @@
 </div>
 
 ### My mission
-As a BTS SIO student specializing in SISR, I am passionate about system and network administration. Curious and motivated, I strive to develop my skills in cybersecurity, virtualization, and cloud computing. My goal is to gain as much experience as possible to become an IT infrastructure expert and contribute to innovative projects.
+As a BTS SIO student specializing in SISR, I am passionate about network and system administration. I strive to develop my expertise in configuring, securing, and maintaining IT infrastructures. My mission is to master network protocols, virtualization, and cybersecurity best practices to ensure the reliability and security of enterprise systems. Always eager to learn, I aim to contribute to innovative IT projects and optimize network performance through efficient and scalable solutions.  
 
 ### Main skills
 [![My Skills](https://skillicons.dev/icons?i=linux,py,github,git,mysql,java,js,html,css,blender,ps)](https://skillicons.dev)
